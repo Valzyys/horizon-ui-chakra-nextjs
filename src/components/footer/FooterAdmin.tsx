@@ -37,15 +37,15 @@ export default function Footer() {
         {' '}
         &copy; {new Date().getFullYear()}
         <Text as="span" fontWeight="500" ms="4px">
-          Horizon UI. All Rights Reserved. Made with love by
+        JKT48Connect All Rights Reserved. Made with love by
           <Link
             mx="3px"
             color={textColor}
-            href="https://www.simmmple.com"
+            href="https://wa.me/6285701479245"
             target="_blank"
             fontWeight="700"
           >
-            Simmmple!
+            Valzyy!
           </Link>
         </Text>
       </Text>
