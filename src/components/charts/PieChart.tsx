@@ -9,8 +9,7 @@ const PieChart = (props: any) => {
   const { chartData, chartOptions } = props;
 
   return (
-    // @ts-expect-error
-    <Chart
+      <Chart
       options={chartOptions}
       type="pie"
       width="100%"
